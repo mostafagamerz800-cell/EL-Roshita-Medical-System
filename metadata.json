@@ -1,0 +1,8 @@
+{
+  "name": "Remix MediStream OCMS - Egyptian ID OCR \u0026 Voice Dictation",
+  "description": "MediStream Clinical Management System module featuring Egyptian National ID OCR extraction, Zod demographic validation, and 16kHz audio clinical dictation structuring with Gemini 3.8 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
